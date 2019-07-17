@@ -16,7 +16,13 @@ export const ANIMALS = [
     id: 'lion',
     name: 'Lion',
     superpower: 'Roaring loudly.'
-  }]
+  },
+  {
+    id: 'monkey',
+    name: 'Monkey',
+    superpower: 'Espécies da Fauna Brasileira Ameaçadas de Extinção.'
+  }
+]
 
 export const TERRITORIES = [
   {
